@@ -1,0 +1,36 @@
+
+=======Data Structure (DS)=======
+
+1 => 97
+2 => 97
+3 => 90
+4 => 95
+5 => 89
+6 => 79
+7 => 80
+8 => 85
+9 => 80
+10=> 85
+
+=====Array====
+1. Index Array (1D)
+2. Two Dimensional Array (2D)
+3. Associative Array
+
+=======Index Array (1D Array)=======
+
+let marks = [97, 97, 90, 95, 89, 79, 80, 85, 80, 85]
+             0,  1,  2,  3,  4,  5,  6,  7,  8,  9
+
+=====Associative Array=====
+let human = {firstName:'Abdul', lastName:'Jobbar', age:12, balance:40}
+              key     : value
+
+=======Two Dimensional Array (2D Array)=======
+
+let twoDimensional =[
+    [10, 3, 4, 5]
+    [15, 4, 6, 10]
+    [15, 4, 7, 12]
+    [15, 4, 7, 12]
+]
